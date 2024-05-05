@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Mohammad Huzaifa</h1>
 <h3 align="center">A Passionate Computer Scientist & Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifa157" alt="huzaifa157" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/huzaifa157](https://github.com/huzaifa157)
 
 - 📫 How to reach me **m.huzaifa157@gmail.com**
@@ -20,5 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifa157&show_icons=true&locale=en" alt="huzaifa157" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa157&" alt="huzaifa157" /></p>
-
 
