@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/huzaifa157](https://github.com/huzaifa157)
 
-- 📫 How to reach me **m.huzaifa157@gmail.com** &  https://www.linkedin.com/in/syed-muhammad-huzaifa-ibrahim-website-developer/
+- 📫 How to reach me **m.huzaifa157@gmail.com** &  https://www.linkedin.com/in/syedhuzaifa-codes//
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
