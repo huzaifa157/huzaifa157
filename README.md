@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
-<h3 align="center">A Passionate Computer Scientist & Web Developer</h3>
+<h3 align="center">A Passionate Computer Scientist & Programmer</h3>
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/huzaifa157)
 
