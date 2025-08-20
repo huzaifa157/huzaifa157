@@ -2,12 +2,12 @@
 <h3 align="center">💻 Computer Science Student | 👨‍💻 Programmer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  I'm a passionate learner focused on web development, problem solving, and building real-world projects using modern technologies.
+  I'm a passionate learner focused on web development, problem-solving, and building real-world projects using modern technologies.
 </p>
 
 <p align="center">
   🔭 Currently focusing on DSA in java & JavaScript-based projects and exploring MERN Stack<br>
-  🌱 Actively improving my skills in React, Node.js, and MongoDB<br>
+  🌱 Actively improving my skills in React, Node.js, SQL, and MongoDB<br>
   🤝 Open to collaboration on open-source or educational projects
 </p>
 
@@ -46,18 +46,21 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <p align="left">
   <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
   <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
   <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
   <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" />
   <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
   <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   <img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
-  <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />
-  <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
-  <img title="C Language" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+  <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+    <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />
+    <img title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" />
+</p>
+
 </p>
 
 ---
@@ -66,6 +69,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifa157&show_icons=true&theme=react&hide_border=true" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa157&layout=compact&theme=react&hide_border=true" />
 </p>
 
