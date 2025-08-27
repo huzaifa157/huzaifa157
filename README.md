@@ -63,8 +63,6 @@
 
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -74,8 +72,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa157&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=huzaifa157&theme=react&hide_border=true" />
 </p>
+
 
 ---
 
