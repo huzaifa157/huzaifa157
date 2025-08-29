@@ -62,19 +62,17 @@
 </p>
 
 </p>
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa157&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa157&show_icons=true&theme=react&hide_border=true&v=2" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa157&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa157&layout=compact&theme=react&hide_border=true&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=huzaifa157&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=huzaifa157&theme=react&hide_border=true&v=2" />
 </p>
-
 
 ---
 
