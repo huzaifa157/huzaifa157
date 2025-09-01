@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🔭 Currently focusing on DSA in java & JavaScript-based projects and exploring MERN Stack<br>
+  🔭 Currently focusing on DSA in java & JavaScript-based projects and exploring MERN Stack <br>
   🌱 Actively improving my skills in React, Node.js, SQL, and MongoDB<br>
   🤝 Open to collaboration on open-source or educational projects
 </p>
