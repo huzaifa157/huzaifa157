@@ -1,4 +1,4 @@
-<h1 align="center"> Hi👋 , I'm Muhammad Huzaifa  </h1>
+<h1 align="center"> Hello👋 , I'm Muhammad Huzaifa  </h1>
 <h3 align="center">💻 Computer Science Student | 👨‍💻 Programmer | 🚀 Tech Enthusiast </h3>
 
 <p align="center">
