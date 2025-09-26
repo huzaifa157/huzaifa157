@@ -1,5 +1,5 @@
 <h1 align="center">Hy👋, I'm Muhammad Huzaifa</h1>
-<h3 align="center">💻 Computer Science Student | 👨‍💻 Programmer | 🚀 Tech Enthusiast </h3>
+<h3 align="center">💻 Computer Science Student | 👨‍💻 Programmer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
   I'm a passionate learner focused on web development, problem-solving, and building real-world projects using modern technologies.
