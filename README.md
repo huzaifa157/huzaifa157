@@ -74,6 +74,15 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=huzaifa157&theme=react&hide_border=true&v=2" />
 </p>
 
+### 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/huzaifa157?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+</p>
+
+
+
+
 ---
 
 ### ✨ Thanks for visiting my profile! Feel free to connect or collaborate.
