@@ -3,20 +3,22 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Learner;Problem+Solver;Web+Developer;MERN+Stack+Explorer;DSA+in+Java;Programmer;" alt="Typing SVG" />
 </p>
-<h3 align="center">💻 Computer Science Student | 👨‍💻 Programmer | 🚀 Tech Enthusiast</h3>
+<h2 align="center">💻 Computer Science Student | 👨‍💻 Programmer | 🚀 Tech Enthusiast</h2>
 
-<p align="center">
-  I'm a passionate learner focused on web development, problem-solving, and building real-world projects using modern technologies.
+
+
+<p align="center" style="font-size:16px; line-height:1.6;">
+  I'm a passionate learner focused on <b>Web Development</b>, <b>Problem-Solving</b>, 
+  and building <b>real-world projects</b> using modern technologies.
 </p>
 
+---
 
-<p align="center">
-  🔭 Currently focusing on DSA in java & JavaScript-based projects and exploring MERN Stack <br>
-  🌱 Actively improving my skills in React, Node.js, SQL, and MongoDB<br>
-  🤝 Open to collaboration on open-source or educational projects
+<p align="center" style="font-size:15px; line-height:1.6;">
+  🔭 Currently focusing on <b>DSA in Java</b> & <b>JavaScript-based projects</b>, while exploring the <b>MERN Stack</b> <br>
+  🌱 Actively improving my skills in <b>React</b>, <b>Node.js</b>, <b>SQL</b>, and <b>MongoDB</b> <br>
+  🤝 Open to <b>collaboration</b> on open-source or educational projects
 </p>
-
-
 
 ## 📫 Connect With Me  
 
