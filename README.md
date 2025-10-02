@@ -1,9 +1,14 @@
 <h1 align="center">Hy👋 , I'm Muhammad Huzaifa</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Learner;Problem+Solver;Web+Developer;MERN+Stack+Explorer;DSA+in+Java;Programmer;" alt="Typing SVG" />
+</p>
 <h3 align="center">💻 Computer Science Student | 👨‍💻 Programmer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
   I'm a passionate learner focused on web development, problem-solving, and building real-world projects using modern technologies.
 </p>
+
 
 <p align="center">
   🔭 Currently focusing on DSA in java & JavaScript-based projects and exploring MERN Stack <br>
@@ -11,33 +16,21 @@
   🤝 Open to collaboration on open-source or educational projects
 </p>
 
----
 
-### 📫 Reach Me
 
-<p align="left">
-  <a href="mailto:m.huzaifa157@gmail.com"><strong>Email</strong></a> |
-  <a href="https://linkedin.com/in/syedhuzaifa-codes" target="_blank"><strong>LinkedIn</strong></a> |
-  <a href="https://medium.com/@m.huzaifa157" target="_blank"><strong>Medium</strong></a>
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:m.huzaifa157@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/syedhuzaifa-codes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@m.huzaifa157" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://github.com/huzaifa157" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
-### 🌐 Social Profiles
+
 
 <p align="left">
-  <a href="https://linkedin.com/in/syedhuzaifa-codes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/huzaifa157" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@m.huzaifa157" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
-
----
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding-gif" width="100%">
 
@@ -60,27 +53,26 @@
     <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />
     <img title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" />
 </p>
-
+ 
+ 
+## 🏆 GitHub Stats 
 </p>
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifa157&show_icons=true&theme=react&hide_border=true&v=2" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa157&layout=compact&theme=react&hide_border=true&v=2" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=huzaifa157&theme=react&hide_border=true&v=2" />
 </p>
 
-### 📊 LeetCode Stats
+## 🏆 LeetCode Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/huzaifa157?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/huzaifa157?theme=dark&font=baloo&ext=contest" height="250" alt="LeetCode Contest Stats" />
+  <img src="https://leetcard.jacoblin.cool/huzaifa157?theme=dark&font=baloo&ext=activity" height="250" alt="LeetCode Recent Activity" />
 </p>
-
-
 
 
 ---
