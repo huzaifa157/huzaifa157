@@ -1,4 +1,4 @@
-<h1 align="center">Hy👋 , I'm Muhammad Huzaifa</h1>
+<h1 align="center">Hy👋 , I'm Muhammad Huzaifa </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Learner;Problem+Solver;Web+Developer;MERN+Stack+Explorer;DSA+in+Java;Programmer;" alt="Typing SVG" />
